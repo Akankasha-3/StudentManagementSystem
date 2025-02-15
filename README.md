@@ -58,8 +58,6 @@ This is a simple C++ program that implements a student management system. It all
 ## Admin Access:
 - The admin password is `admin123` (please change it for security in real applications).
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributions:
 Feel free to fork this repository, raise issues, and submit pull requests if you'd like to contribute.
